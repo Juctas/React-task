@@ -1,5 +1,7 @@
 
-## Homework task for Danske Bank Future Pros programme Front end development using React By Justas Spirgys
+## Homework task for Danske Bank Future Pros programme 
+## Front end development using React
+## By Justas Spirgys
 
 An application used to determine if it is possible to reach last element of the array according to specific rules, built with React and CSS.
 
