@@ -7,6 +7,7 @@ An application used to determine if it is possible to reach last element of the 
 ## Screenshots
 
 ![Screenshot](/screenshot.png?raw=true "Homework")
+![Screenshot](/screenshot2.png?raw=true "Homework")
 
 ## Installation and Setup Instructions
 
